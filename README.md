@@ -86,8 +86,6 @@ I'm a data analyst-in-training with a background in **behavioral economics** and
 
 - `bumble_eda_case_study.ipynb` – Main notebook
 - `bumble_user_data.csv` – Primary dataset
-- `images/` – Visuals used in the notebook (optional)
-
 ---
 
 ## 📬 Contact
